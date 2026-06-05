@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19a7d7c1ee5799c4e9f69f527aae8e9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252379
+  packageName: 'P3D: Slaughtered Dead Bodies (Skeleton & Mummy & Burned Corpses)'
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix3D/Skeleton_DeadBodies/Materials/Burned_Skull_Lower_Part.mat
+  uploadId: 605487

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f90dcdf287f41814395b59c98a99eb46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 252379
+  packageName: 'P3D: Slaughtered Dead Bodies (Skeleton & Mummy & Burned Corpses)'
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix3D/Skeleton_DeadBodies/Materials/Metal.mat
+  uploadId: 605487

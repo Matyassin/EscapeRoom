@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a40aa605fabfd42aee65be87c1cab1, type: 3}
+  m_Name: WoodLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::AudioLibrary
+  Category: 8
+  Clips:
+  - Clip: {fileID: 8300000, guid: bd2e9db1f1389d044847fa1205ae126a, type: 3}
+    Volume: 1
+  - Clip: {fileID: 8300000, guid: 3405023e58877354a93264e20c6034b4, type: 3}
+    Volume: 1
+  - Clip: {fileID: 8300000, guid: 0b39b92293f622d49b3d7062abffe559, type: 3}
+    Volume: 1
+  - Clip: {fileID: 8300000, guid: 3799a31408b1d454fac01de4c6076bbe, type: 3}
+    Volume: 1

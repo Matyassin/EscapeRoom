@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a40aa605fabfd42aee65be87c1cab1, type: 3}
+  m_Name: FootstepStoneLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::AudioLibrary
+  Category: 1
+  Clips:
+  - Clip: {fileID: 8300000, guid: d170fda932896504ea7e841be64b6d33, type: 3}
+    Volume: 0.7
+  - Clip: {fileID: 8300000, guid: 3295f13e87124ff468ec17f02419ca74, type: 3}
+    Volume: 0.7
+  - Clip: {fileID: 8300000, guid: 24d1fe8781bf8e643865c760f8830901, type: 3}
+    Volume: 0.7
+  - Clip: {fileID: 8300000, guid: 1f7290ff340f0434897471cb19b431d7, type: 3}
+    Volume: 0.7
+  - Clip: {fileID: 8300000, guid: 26fa8a1f7f9a0ea4facd8e94ac0238e1, type: 3}
+    Volume: 0.7
