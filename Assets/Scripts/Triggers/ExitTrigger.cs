@@ -64,12 +64,17 @@ public class ExitTrigger : MonoBehaviour
         yield return StartCoroutine(Utilities.InterpolateByValueScaled(
             v => GhostingFeature.RuntimeBlendAmount = v,
             0,
-            GhostingFeature.RuntimeBlendAmount,
+            0.85f,
             10f,
             Mathf.Lerp)
         );
 
-        AudioManager.Instance.PlayRandom(AudioCategory.Insanity);
-        AudioManager.Instance.PlayRandom(AudioCategory.PlayerBreathing);
+        while (true)
+        {
+            AudioManager.Instance.PlayRandom(AudioCategory.Insanity);
+            AudioManager.Instance.PlayRandom(AudioCategory.PlayerBreathing);
+
+            yield return new WaitForSeconds(UnityEngine.Random.Range(15f, 20f));
+        }
     }
 }
